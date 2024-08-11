@@ -1,0 +1,38 @@
+.navcontainer {
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: center;
+    top: 0px;
+    padding: 5px 5px;
+    background: rgba(181, 101, 29, 0.8);
+    background-blend-mode: darken;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.navlist {
+    display: flex;
+    list-style: none;
+}
+
+.navlist li {
+    margin-right: 20px;
+}
+
+.logo {
+    border-radius: 5px;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+body {
+    background-color: bisque;
+}
+
+ul {
+    margin: 0;
+}

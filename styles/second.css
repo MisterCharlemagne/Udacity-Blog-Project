@@ -1,0 +1,32 @@
+.blogimg {
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+}
+
+.avatar {
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.blogpostheader {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.authorinfo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+figure {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button {
+    margin-left: 40px;
+    margin-bottom: 40px;
+}

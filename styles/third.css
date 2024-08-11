@@ -1,0 +1,24 @@
+.socialmedia {
+    display: grid;
+    grid-template-rows: 50px 100px;
+}
+
+.social {
+    list-style: none;
+}
+
+.twitter {
+    color: rgb(29, 161, 242);
+}
+
+.facebook {
+    color: rgb(66, 103, 178);
+}
+
+.linkedin {
+    color: rgb(7, 98, 200);
+}
+
+.footer {
+    color: slategray;
+}
